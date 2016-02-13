@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR_B_Company", "HR_B_Compan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR_Base", "HR_Base\HR_Base.csproj", "{F21ACA46-A43C-40A3-9886-BCCD43104EEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training-Unity_HelloWorld", "Training-Unity_Helloworld\Training-Unity_HelloWorld.csproj", "{CE684E8B-B2EB-4106-B600-88382C02F846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F21ACA46-A43C-40A3-9886-BCCD43104EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F21ACA46-A43C-40A3-9886-BCCD43104EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F21ACA46-A43C-40A3-9886-BCCD43104EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE684E8B-B2EB-4106-B600-88382C02F846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE684E8B-B2EB-4106-B600-88382C02F846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE684E8B-B2EB-4106-B600-88382C02F846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE684E8B-B2EB-4106-B600-88382C02F846}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
